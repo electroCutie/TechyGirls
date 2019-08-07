@@ -1,4 +1,4 @@
-# Techy Girls is a safe space
+# Techy Girls is a safe space for women and especially survivors of sexual abuse
 * Be Kind
 * All women are welcome, cis or trans and also other non-male-identifying people
 * The chat is not just SFW, but also sex-free. That means no references to sex, sexual organs, or sexual content, not even obliquely or medically
