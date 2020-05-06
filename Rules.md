@@ -1,10 +1,10 @@
-# Techy Girls is a safe space for women and especially survivors of sexual abuse
+# Welcome to Techy Girls
 
+Techy Girls is a safe space for women and especially survivors of sexual abuse. We welcome all women (cis or trans), non-binary and/or genderfluid people.
 
-## All of Our Chats are Places of Cooperation and Kindness
+All of Our Chats are Places of Cooperation and Kindness, so please familiarise yourself with these shared rules:
 
 * Be Kind
-* All women are welcome, cis or trans and also other non-male-identifying people
 * You will not be called out or punished for bringing concerns to the moderators or admins. If you have a problem or need to discuss something that is making you uncomfortable, please don't hesitate
 * Avoid unnecessary negativity. For example:
   * Don't tell someone that their tool of choice sucks. You don't like it, apparently for a reason. Share your reasons if you must but it is rarely the case that something is entirely bad
@@ -12,20 +12,25 @@
   * Be sure you understand why someone disagrees with you. It never hurt to ask for more information
   * Agree when you agree. Where there is common ground be sure to point it out, its usually a good starting point
 
+## The chats
 
-## The Rated G Chat is a Place With No Sex and Safe From Triggers
+The Techy Girls community consists of 3 separate chats. Each of these chats have their own, additional rules.
+
+### Techy Girls (G-Rated / E for Everyone)
+The Rated G chat is a place with no sex and safe from triggers.
 
 * The chat is not just SFW, but also sex-free. That means no references to sex, sexual organs, or sexual content, not even obliquely or medically
 * If you find yourself trying to phrase something so as to be acceptable, that is a sign it is **not** okay
 * Keep discussions about medical treatments to a mimimum. Talking about health and transition is more than okay, but shy away from specifics
 
-## The NSFW Chat is not for Porn
+### [18+] Techy Girls (NSFW-ish)
+This chat is labeled NSFW-ish due to its looser ruleset, but it is not for porn. You must be at least 18 years old to join this chat.
 
 * The chat is NSFW but is not for sexually explicit content, There is a chat specifically for that. No porn and no descriptions of sexual acts
 * The chat may sometimes contain hard or potentially triggering topics, as such they will be approached with the maturity and delicacy that they deserve
 
-
-## Smutty Girls is for Porn, but isn't a free-for-all
+### [18+] Smutty Girls
+Smutty Girls is for porn, but isn't a free-for-all. You must be at least 18 years old to join this chat.
 
 
 TODO: The Post / CW / Forbidden list
