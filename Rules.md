@@ -6,3 +6,8 @@
 * Keep discussions about medical treatments to a mimimum. Talking about health and transition is more than okay, but shy away from specifics
 * You will not be called out or punished for bringing concerns to the moderators or admins. If you have a problem or need to discuss something that is making you uncomfortable, please don't hesitate
 * We have a chat for potentially triggering or NSFW things. If you find youself wanting to talk about these topics, then take it to the other chat. Forward the message there then reply to it, for example. Or just go off on a tangent (but be nice to Tangent)
+* Avoid unnecessary negativity. For example:
+  * Don't tell someone that their tool of choice sucks. You don't like it, apparently for a reason. Share your reasons if you must but it is rarely the case that something is entirely bad
+  * When people are helping each other that is a time to be constructive. They probably don't want to change distros or learn a new programming language. Try to see if your insights can help, but try to understand their needs and limitations
+  * Be sure you understand why someone disagrees with you. It never hurt to ask for more information
+  * Agree when you agree. Where there is common ground be sure to point it out, its usually a good starting point
