@@ -23,6 +23,10 @@ The Rated G chat is a place with no sex and safe from triggers.
 * If you find yourself trying to phrase something so as to be acceptable, that is a sign it is **not** okay
 * Keep discussions about medical treatments to a mimimum. Talking about health and transition is more than okay, but shy away from specifics
 
+An analogy to aid understanding is to think of a chat for people who are recovering from substance abuse
+In that chat they do not allow any mention of intoxicants, intoxication, or even hinting at those things. This helps the members of the chat not focus on their addictions
+*G-Rated / E for Everyone* is exactly that but for sex
+
 ### [18+] Techy Girls (NSFW-ish)
 This chat is labeled NSFW-ish due to its looser ruleset, but it is not for porn. You must be at least 18 years old to join this chat.
 
